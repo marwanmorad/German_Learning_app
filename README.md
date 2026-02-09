@@ -100,5 +100,5 @@ Developed by [Marwan Morad]
 
 Aspiring Mobile Developer focused on building real-world, scalable applications.
 
-GitHub: [Your GitHub Profile Link]  
-LinkedIn: [Your LinkedIn Profile Link]
+GitHub: [https://github.com/marwanmorad]  
+LinkedIn: [https://www.linkedin.com/in/marwan-morad-dev]
