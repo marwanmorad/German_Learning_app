@@ -20,12 +20,8 @@ class _LoginPageState extends State<auth_screen> {
           padding: const EdgeInsets.symmetric(horizontal: 30),
           child: Column(
             children: [
-              const SizedBox(height: 60),
-              const Icon(
-                Icons.menu_book_rounded,
-                size: 90,
-                color: Color(0xFFE65100),
-              ),
+              SizedBox(height: 60),
+              Icon(Icons.menu_book_rounded, size: 90, color: Color(0xFFE65100)),
               const SizedBox(height: 10),
               const Text(
                 'SprachHub',
