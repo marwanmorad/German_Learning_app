@@ -82,46 +82,16 @@ This project is continuously evolving and being improved step by step.
 ---
 
 ## Screenshots
-<table style="width:100%">
-  <tr>
-    <td align="center">
-      <img src="assets/screenshots/Auth.jpg" width="250px;" alt="Screen 1"/><br/>
-      <sub><b>Login Screen</b></sub>
-    </td>
-    <td align="center">
-      <img src="assets/screenshots/home" width="250px;" alt="Screen 2"/><br/>
-      <sub><b>Home Screen</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="assets/screenshots/chats.jpg" width="250px;" alt="Screen 3"/><br/>
-      <sub><b>Chat Screen</b></sub>
-    </td>
-    <td align="center">
-      <img src="assets/screenshots/Words.jpg" width="250px;" alt="Screen 4"/><br/>
-      <sub><b>Settings</b></sub>
-    </td>
-    <td align="center">
-      <img src="assets/screenshots/Translator.jpg" width="250px;" alt="Screen 5"/><br/>
-      <sub><b>Settings</b></sub>
-    </td>
-    <td align="center">
-      <img src="assets/screenshots/AI Assistant.jpg" width="250px;" alt="Screen 6"/><br/>
-      <sub><b>Settings</b></sub>
-    </td>
-    <td align="center">
-      <img src="assets/screenshots/Notifications.jpg" width="250px;" alt="Screen 7"/><br/>
-      <sub><b>Settings</b></sub>
-    </td>
-    <td align="center">
-      <img src="assets/screenshots/settings.jpg" width="250px;" alt="Screen 8"/><br/>
-      <sub><b>Settings</b></sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
+| | |
+| :---: | :---: |
+| <img src="assets/screenshots/Auth.jpg" width="250"> <br> Login Screen | <img src="assets/screenshots/home.jpg" width="250"> <br> Home Screen |
+| <img src="assets/screenshots/chats.jpg" width="250"> <br> Messages | <img src="assets/screenshots/Words.jpg" width="250"> <br> Words List |
+| <img src="assets/screenshots/Translator.jpg" width="250"> <br> Translator | <img src="assets/screenshots/AI Assistant.jpg" width="250"> <br> AI Assistant |
+| <img src="assets/screenshots/Notifications.jpg" width="250"> <br> Notifications | <img src="assets/screenshots/Settings.jpg" width="250"> <br> Profile |
 
+</div
 ---
 
 ## Developer
